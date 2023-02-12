@@ -1,5 +1,5 @@
 
-## Tralvels App UI 
+## Travel Blog App UI 
 
 ## Used:
 🎯Model Class
