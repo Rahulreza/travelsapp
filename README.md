@@ -12,7 +12,7 @@
 🎯Pageview
 🎯Stack
 🎯Position
-🎯Clicpreact
+🎯Clipreact
 🎯Mediaquery
 🎯Container
 🎯BoxDecoration
